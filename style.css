@@ -1,0 +1,29 @@
+body {
+    background-color: #ecd4ea;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+main {
+    background-color: #da90d3c4;
+    text-align: center;
+    height: 150px;
+    padding: 10px;
+    margin: 200px;
+    border-radius: 5px;
+}
+
+input {
+    margin: 5px;
+}
+
+#heroi, #xp {
+    border-radius: 5px;
+    box-shadow: #f0f0f0 2px;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    background-color: #ca59c1;
+    
+}
